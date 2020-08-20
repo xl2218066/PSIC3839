@@ -14,7 +14,8 @@ Perceived arousal, valence, and depth of each song was evaluated  by five to sev
 
 "sub01.xlsx" to "sub05.xlsx" contain the annotation results of five unique individuals respectively.
 The original music file will be uploaded after the relevant article is published.
-If you wish to cite the PSIC3839 datase, please cite the paper
+If you wish to cite the PSIC3839 datase, please cite the relavent URL
+
 
 中文说明：
 #该数据集标注的是对完整歌曲"唤醒度"、“效价”和“深度”三个维度的整体评价，并非动态标注结果；
