@@ -1,6 +1,6 @@
 # PSIC3839
 
-This dataset contains the overall estimation of 3839 popular songs in China.
+This dataset contains the overall estimation of 3839 songs popular in China.
 Perceived arousal, valence, and depth of each song was evaluated  by five to seven unique participants.
 
 ### "general_data.xlsx" contains the overall annotation results:
