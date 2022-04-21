@@ -15,7 +15,7 @@ Perceived arousal, valence, and depth of each song was evaluated  by five to sev
 ####  "sub01.xlsx" to "sub05.xlsx" contain the annotation results of five unique individuals respectively.
 ####  The original music files will be uploaded after the relevant article is published.
 ####  If you wish to cite the PSIC3839 datase, please cite the relavent URL as follow.
-####  "Xu, L., Yun, Z., Sun, Z., Wen, X., Wang, J., Qian, X.(2020). PSIC3839: Predicting the Overall Emotion and Depth of Entire Songs. Availabe online https://github.com/xl2218066/PSIC3839."
+####  Xu, L., Yun, Z., Sun, Z., Wen, X., Qin, X., & Qian, X. (2022). PSIC3839: predicting the overall emotion and depth of entire songs. In Design Studies and Intelligence Engineering (pp. 1-9). IOS Press. Doi:10.3233/FAIA220004
 ####  ■ Primary contact person: Liang Xu, Department of Psychology and Behavioral Sciences, Zhejiang University.
 ####  ■ Email: xuliang_psy@zju.edu.cn；xuliang_psy@foxmail.com
 
